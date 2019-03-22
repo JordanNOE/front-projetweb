@@ -1,0 +1,27 @@
+body {
+    /*background-image:url( "http://iwallpapers.free.fr/upload/2016/01/21/20160121195824-3d515a08.jpg");*/
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    color: white;
+    
+}
+header{
+    
+    background-color: 	rgb(211,211,211,0.8);
+    text-align : center;
+    padding: 1%;
+    border-bottom: 1px solid white;
+}
+
+h3, p{
+    text-decoration: none;
+    color : rgb(22, 20, 20);
+
+}
+
+
+
+

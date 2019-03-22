@@ -1,0 +1,29 @@
+body {
+    
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    color: white;
+    
+}
+
+.space{
+    border: 1px solid white;
+    border-radius: 1%;
+    margin: 2rem;
+    padding: 1rem;
+    color: white;
+    background-color: 	rgb(211,211,211,0.8);
+    box-shadow: 10px 3px 2px black;
+    
+}
+
+.home
+{   padding: 2rem;
+    background-image:url( "https://www.johanna-awakening.com/wp-content/uploads/2016/05/intro-musique.jpg");
+}
+form{
+    text-align : center;
+}
